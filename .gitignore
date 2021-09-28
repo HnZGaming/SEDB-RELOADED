@@ -17,3 +17,6 @@
 /.gitattributes
 /.vs/SEDiscordBridge/v16/.suo
 /.vs/SEDiscordBridge/v17
+
+obj/
+.idea/
