@@ -351,7 +351,7 @@ namespace SEDiscordBridge
                     if (!Plugin.Config.AsServer)
                     {
                         if (Plugin.Config.UseNicks)
-                            sender = e.Guild.GetMemberAsync(e.Author.Id).Result.Nickname;
+                            sender = e.Guild.GetMemberAsync(e.Author.Id).Result.DisplayName;
                         else
                             sender = e.Guild.GetMemberAsync(e.Author.Id).Result.Username;
                     }
