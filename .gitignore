@@ -6,15 +6,12 @@
 /.vs/SEDiscordBridge/v16/Server/sqlite3
 /GameBinaries
 /SEDiscordBridge/obj/Debug
-/SEDiscordBridge/SEDiscordBridge.csproj
 /TorchBinaries
 /packages
 /SEDiscordBridge/bin/Debug
 /SEDiscordBridge/Properties
-/SEDiscordBridge/app.config
 /SEDiscordBridge/FodyWeavers.xml
 /.vs/SEDiscordBridge/v15
-/.gitattributes
 /.vs/SEDiscordBridge/v16/.suo
 /.vs/SEDiscordBridge/v17
 
